@@ -2,7 +2,6 @@
 #pragma ide diagnostic ignored "misc-no-recursion"
 
 #include <iostream>
-#include <vector>
 #include <string>
 #include <algorithm>
 
